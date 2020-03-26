@@ -1,3 +1,4 @@
 {
-    "mongoURI": "mongodb+srv://dbUser:dbPassword@buggers-hub-fgrws.mongodb.net/test?retryWrites=true&w=majority"
+    "mongoURI": "mongodb+srv://dbUser:dbPassword@buggers-hub-fgrws.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret": "mysecrettoken"
 }
