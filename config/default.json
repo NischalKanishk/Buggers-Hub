@@ -1,4 +1,6 @@
 {
     "mongoURI": "mongodb+srv://dbUser:dbPassword@buggers-hub-fgrws.mongodb.net/test?retryWrites=true&w=majority",
-    "jwtSecret": "mysecrettoken"
+    "jwtSecret": "mysecrettoken",
+    "githubClientId": "Iv1.9fd420d23208e59f",
+    "githubSecret":"95e90f406a9c2a2abb9cd72ae0ac11392674ca55"
 }
